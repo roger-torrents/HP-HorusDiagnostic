@@ -4,7 +4,7 @@ import time
 
 # --- CONFIGURATION ---
 # Recorda que si ja has publicat el workflow, hauries de fer servir la URL de producció (sense el "-test")
-N8N_URL = "https://rogertorrents.app.n8n.cloud/webhook-test/eaab8f5c-d748-4631-aae8-4ec8fef933cd" 
+N8N_URL = "https://rogertorrents.app.n8n.cloud/webhook/eaab8f5c-d748-4631-aae8-4ec8fef933cd" 
 HP_BLUE = "#007DB8"
 HP_DARK_BLUE = "#005A87"
 HP_LIGHT_BLUE = "#E6F2F8"
